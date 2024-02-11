@@ -112,7 +112,7 @@ const Header = () => {
                   <IconButton
                     size="large"
                     LinkComponent={"a"}
-                    href="https://www.linkedin.com/in/zahid-shaikh-7a4843178/"
+                    href="https://www.linkedin.com/in/karan-maurya-83b856205/"
                     target={"_blank"}
                   >
                     <LinkedIn className="text-white" fontSize="medium" />
@@ -122,7 +122,7 @@ const Header = () => {
                   <IconButton
                     size="large"
                     LinkComponent={"a"}
-                    href="https://github.com/The-Lone-Druid"
+                    href="https://github.com/karancodex"
                     target={"_blank"}
                   >
                     <GitHub className="text-white" fontSize="medium" />
@@ -132,7 +132,7 @@ const Header = () => {
                   <IconButton
                     size="large"
                     LinkComponent={"a"}
-                    href="https://www.instagram.com/the_lone_druid/"
+                    href="https://www.instagram.com/mauryawansikaran/"
                     target={"_blank"}
                   >
                     <Instagram className="text-white" fontSize="medium" />
@@ -178,7 +178,7 @@ const Header = () => {
             <IconButton
               size="large"
               LinkComponent={"a"}
-              href="https://www.linkedin.com/in/zahid-shaikh-7a4843178/"
+              href="https://www.linkedin.com/in/karan-maurya-83b856205/"
               target={"_blank"}
             >
               <LinkedIn className="text-white" fontSize="medium" />
@@ -188,7 +188,7 @@ const Header = () => {
             <IconButton
               size="large"
               LinkComponent={"a"}
-              href="https://github.com/The-Lone-Druid"
+              href="https://github.com/karancodex"
               target={"_blank"}
             >
               <GitHub className="text-white" fontSize="medium" />
@@ -198,7 +198,7 @@ const Header = () => {
             <IconButton
               size="large"
               LinkComponent={"a"}
-              href="https://www.instagram.com/the_lone_druid/"
+              href="https://www.instagram.com/mauryawansikaran/"
               target={"_blank"}
             >
               <Instagram className="text-white" fontSize="medium" />
