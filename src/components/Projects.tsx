@@ -8,7 +8,7 @@ type Props = {
 
 const Projects = ({ projects }: Props) => {
   return (
-    <div className="bg-pf-dark-med" id="projects">
+    <div className="bg-[#1c456d]" id="projects">
       <div className="pf-container py-[60px]">
         <div className="flex items-center">
           <Typography variant="h5" fontWeight="bold" gutterBottom>

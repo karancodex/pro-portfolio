@@ -85,10 +85,10 @@ const Header = () => {
                 src={Favicon}
                 height={80}
                 width={80}
-                alt={"Karan Kumar Maurya logo"}
+                alt={"Karan Maurya logo"}
               />
               <Typography variant="h5" fontWeight={"600"} className="ml-2">
-                Karan Kumar Maurya.
+                Karan Maurya
               </Typography>
             </Link>
             <div className="items-center justify-between flex-1 lg:flex hidden">
